@@ -7,9 +7,9 @@
   **se** il passeggero ha un'età < 18 anni
 
   - applico uno sconto del 20%
-    - **altrimenti** paga il prezzo pieno
 
-  **se** il passeggero ha un'età >= 65 anni
+  **altrimenti se** il passeggero ha un'età >= 65 anni
 
   - applico uno sconto del 40%
-    - **altrimenti** paga il prezzo pieno
+
+  - **altrimenti** paga il prezzo pieno
