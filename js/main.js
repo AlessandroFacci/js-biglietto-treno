@@ -5,5 +5,5 @@ console.log(ticketPrice);
 
 //chiedo l'età del passeggero
 
-const passengerAge = prompt("Dimmi l'età del passeggero");
+const passengerAge = parseInt(prompt("Dimmi l'età del passeggero"));
 console.log(passengerAge);
