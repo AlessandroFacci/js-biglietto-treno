@@ -1,0 +1,9 @@
+//chiedo quanti chilometri vuole percorrere l'utente
+
+const ticketPrice = prompt("Dimmi quanti chilometri vuoi fare");
+console.log(ticketPrice);
+
+//chiedo l'età del passeggero
+
+const passengerAge = prompt("Dimmi l'età del passeggero");
+console.log(passengerAge);
