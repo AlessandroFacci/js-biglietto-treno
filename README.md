@@ -12,4 +12,6 @@
 
   - applico uno sconto del 40%
 
-  - **altrimenti** paga il prezzo pieno
+  - calcolo prezzo finale del biglietto
+
+  - mostro a schermo prezzo finale
